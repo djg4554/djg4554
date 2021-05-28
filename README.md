@@ -2,7 +2,8 @@ Hi , I’m @djg4554 a 20 years old Computer Engineering student at Unipa (Univer
 
 Language i know: ARM 32 bit, Java, C
 
-I’m currently learning MySQL, JavaScript and Python
+I’m currently learning MySQL, JavaScript and Python, 
+Studyng for becoming a FullStackDeveloper
 
 email: giorgiospedalework@gmail.com 
 Discord: ɢιorɢιo#4554
