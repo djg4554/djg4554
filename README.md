@@ -6,7 +6,7 @@ I’m currently learning MySQL, JavaScript and Python,
 Studyng for becoming a FullStackDeveloper
 
 email: giorgiospedalework@gmail.com 
-Discord: ɢιorɢιo#4554
+Discord: ɢιorɢιo#6483
 
 
 <!---
